@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('clone') {
             steps {
-                bat "https://github.com/taimoor-butt/JenkinsProject.git"
+                bat "git clone https://github.com/taimoor-butt/JenkinsProject.git"
             }
         }
         stage('install') {
