@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a99fc179-fbf7-498e-853d-0399362a5901" name="Changes" comment="last commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JenkinsTest/Jenkinsfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JenkinsTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JenkinsTest/src/main/java/com/test/jenkins/JenkinsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/jenkins/JenkinsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="qa" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AZdvmumtUPmMoruYERGQ3PuN2K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-18" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\spring\JenkinsProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JenkinsTest">
+    <configuration name="JenkinsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.jenkins.JenkinsTest" />
+      <module name="JenkinsTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.jenkins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JenkinsTestFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JenkinsTestFile" />
+      <module name="JenkinsProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JenkinsTest" />
+        <item itemvalue="Application.JenkinsTestFile" />
+        <item itemvalue="Application.JenkinsTestFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a99fc179-fbf7-498e-853d-0399362a5901" name="Changes" comment="" />
+      <created>1655221273577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655221273577</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fust cameet">
+      <created>1655221834298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655221834298</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fust cameet">
+      <created>1655222114625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655222114625</updated>
+    </task>
+    <task id="LOCAL-00003" summary="last commit">
+      <created>1655224896953</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655224896953</updated>
+    </task>
+    <task id="LOCAL-00004" summary="last commit">
+      <created>1655291907665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655291907665</updated>
+    </task>
+    <task id="LOCAL-00005" summary="last commit">
+      <created>1655292605982</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655292605982</updated>
+    </task>
+    <task id="LOCAL-00006" summary="last commit">
+      <created>1655292875117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655292875117</updated>
+    </task>
+    <task id="LOCAL-00007" summary="last commit">
+      <created>1655292948401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655292948401</updated>
+    </task>
+    <task id="LOCAL-00008" summary="last commit">
+      <created>1655293166154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655293166154</updated>
+    </task>
+    <task id="LOCAL-00009" summary="last commit">
+      <created>1655293352419</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655293352419</updated>
+    </task>
+    <task id="LOCAL-00010" summary="last commit">
+      <created>1655293419966</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655293419966</updated>
+    </task>
+    <task id="LOCAL-00011" summary="last commit">
+      <created>1655293517081</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655293517081</updated>
+    </task>
+    <task id="LOCAL-00012" summary="last commit">
+      <created>1655293736353</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1655293736353</updated>
+    </task>
+    <task id="LOCAL-00013" summary="last commit">
+      <created>1655293943531</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1655293943531</updated>
+    </task>
+    <task id="LOCAL-00014" summary="last commit">
+      <created>1655294378167</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1655294378167</updated>
+    </task>
+    <task id="LOCAL-00015" summary="last commit">
+      <created>1655295398224</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1655295398224</updated>
+    </task>
+    <task id="LOCAL-00016" summary="last commit">
+      <created>1655295589777</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1655295589777</updated>
+    </task>
+    <task id="LOCAL-00017" summary="last commit">
+      <created>1655296825746</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1655296825746</updated>
+    </task>
+    <task id="LOCAL-00018" summary="last commit">
+      <created>1655299130537</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1655299130537</updated>
+    </task>
+    <task id="LOCAL-00019" summary="last commit">
+      <created>1655304926062</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1655304926062</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="fust cameet" />
+    <MESSAGE value="last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
+  </component>
+</project>
