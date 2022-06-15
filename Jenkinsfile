@@ -1,10 +1,8 @@
 pipeline {
     agent any
     stages {
-        stage('clone') {
+        stage('mvn clean') {
             steps {
-                bat "rm JenkinsProject"
-                bat "git clone https://github.com/taimoor-butt/JenkinsProject.git"
                 bat "mvn clean JenkinsProject"
             }
         }
