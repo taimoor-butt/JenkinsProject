@@ -3,6 +3,7 @@ pipeline {
     stages {
         stage('mvn clean') {
             steps {
+
                 bat "mvn clean JenkinsProject"
             }
         }
