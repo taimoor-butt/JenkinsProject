@@ -3,6 +3,7 @@ pipeline {
     stages {
         stage('git repo & clean') {
             steps {
+                bat "rmdir  /s /q JenkinsProject"
                 bat "git clone https://github.com/taimoor-butt/JenkinsProject.git"
                 bat "mvn clean -f JenkinsProject"
             }
