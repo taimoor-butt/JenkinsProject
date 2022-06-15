@@ -4,6 +4,7 @@ pipeline {
         stage('clone') {
             steps {
                 bat "git clone https://github.com/taimoor-butt/JenkinsProject.git"
+                bat "mvn clean -f JenkinsProject"
             }
         }
         stage('install') {
